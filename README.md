@@ -1,6 +1,6 @@
 # contact-form-website
-A little contact form which you integrate into your website.
-
+A little contact form which you can integrate into your website.
+ 
 # Getting started
 This project is a little contact form that sends the data to a mail adress of your choice. You can change the recipient in the file **assets/php/contact-form.php**. 
 
